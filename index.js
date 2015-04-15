@@ -1,4 +1,4 @@
-function cleanWhitespace = function( node ){
+function cleanWhitespace( node ){
 	for(var n = 0; n < node.childNodes.length; n++){
         var child = node.childNodes[n];
 

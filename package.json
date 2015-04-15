@@ -1,0 +1,19 @@
+{
+  "name": "clean-whitespace",
+  "version": "1.0.0",
+  "description": "removes whitespace text nodes from document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azumbrunnen/clean-whitespace.git"
+  },
+  "author": "Adrian Zumbrunnen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azumbrunnen/clean-whitespace/issues"
+  },
+  "homepage": "https://github.com/azumbrunnen/clean-whitespace"
+}

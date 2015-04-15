@@ -1,6 +1,6 @@
 {
   "name": "clean-whitespace-textnodes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "removes whitespace text nodes from document",
   "main": "index.js",
   "scripts": {
